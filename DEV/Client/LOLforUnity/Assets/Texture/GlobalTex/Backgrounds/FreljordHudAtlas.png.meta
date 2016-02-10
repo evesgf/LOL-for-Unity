@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: fa2d085e5d8bcf948a37ad34e66d7a5e
+timeCreated: 1426750079
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FreljordHudAtlas_0
+    21300002: FreljordHudAtlas_1
+    21300004: FreljordHudAtlas_2
+    21300006: FreljordHudAtlas_3
+    21300008: FreljordHudAtlas_4
+    21300010: FreljordHudAtlas_5
+    21300012: FreljordHudAtlas_6
+    21300014: FreljordHudAtlas_7
+    21300016: FreljordHudAtlas_8
+    21300018: FreljordHudAtlas_9
+    21300020: FreljordHudAtlas_10
+    21300022: FreljordHudAtlas_11
+    21300024: FreljordHudAtlas_12
+    21300026: FreljordHudAtlas_13
+    21300028: FreljordHudAtlas_14
+    21300030: FreljordHudAtlas_15
+    21300032: FreljordHudAtlas_16
+    21300034: FreljordHudAtlas_17
+    21300036: FreljordHudAtlas_18
+    21300038: FreljordHudAtlas_19
+    21300040: FreljordHudAtlas_20
+    21300042: FreljordHudAtlas_21
+    21300044: FreljordHudAtlas_22
+    21300046: FreljordHudAtlas_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FreljordHudAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 468
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 955
+        width: 510
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 872
+        width: 231
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 832
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 833
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 833
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 833
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 833
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 752
+        width: 277
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 753
+        width: 328
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 784
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 751
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 624
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 482
+        width: 664
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 592
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 419
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 404
+        width: 174
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 375
+        width: 679
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 357
+        width: 174
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 396
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 66
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 57
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FreljordHudAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 298
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
